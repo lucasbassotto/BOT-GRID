@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "future-arbitrage",
+  "private_key_id": "3091c9c510341845885707f46771aebed3a28215",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDuXgIK85Fg7XwO\nZL/kbtbJV53wpcyDIfHDWHMAQrV+onGn1pu1TZPsEKsYK0VzeQ5jngdMZ5UkN6Fo\nw/e7XkOW++B13KTxGOje2FHJHSxla3WZAKp+bBkEAFV+KBuvcBd1cOhRyqjlrBRs\nfgNjLaWu4JbQ9LLuKP3p92gr4pvEjrIvmdf7gwrn3/1Gz3EKFx+T7/knmeyBkxka\nzVWx69LH5gSCrczwMczZrbfIlpC5KV5phn+4+qvdBe7jkRbOHK89rH29NECLhwmu\nGGLmxZB0jI6e6jYelGHaPdx9+6+cFCMdZZvwH+c9okAT9epuL/PGGc1y2MarVmwM\ncbsLjfG3AgMBAAECggEAdXcOOqdc9Q8TG2S6y69zWTU8N+L8rYKEyWdFBNPa7NTQ\nfY1cnjPkuWhdaEOqrgTx+lVd82D4NijT+fTYmBUT6cumCW76OXW1DFw9sYYW4sPZ\n59RUMIjEqxwfBVRukD4E0XMaiXP9V3E9f1l6Ad300AENUVvE8Whx+GJbi4TYjjtw\nS/+sf1JDy/6Z1EFw8WLff3hbxhZrzg7IlZFdGcZHog+biijZiPtYGulLQFV0csug\n0Ro0c+3TVS3O0xflmBPhRtxFxwSUr5Svg711XDz3cJ6zMMdhrP20VqD/m6tQZJDE\nm2+ufs1up5yX0OJ0haLHODvxsuclFwzIfBCi1KYtgQKBgQD3FaxM6X6/6QR9sob8\nxDTPoEHzO8gJ2L2vllF0tRl+8t1seHysvd2toC/OWklkgBP3FsmRerV2pdGxrHuh\nSNuJXVNDm3U0r16K2hIMXNB4qb9WduxFwVOxblclAEW3DrITq6JNk2LRYUEIDfhD\nAP7CwtvVYpC8vra34YrmY3F6CQKBgQD298/MZOhuA3ez76LG8RHtxPH6AwMECvoj\nqjMPIK/RxL4J6pPEjLesJJ4j8tR1huQqiR9uWmhofkgOSDcwhuQ8joBQ/3v9LbJt\nQmNbWElG3TTOg3oleFXLl2yIdvdBKV7xm1QADwaqRY6QYNgiQfMid5Sjy9oEOz3c\nTTMP+EH9vwKBgQDXqREUqJC7DLWgyNxNbyvxNR2bIci933Hg+kDqrs8sIOrnLFsV\nozsDutc/M0rv72J9vmP9GK+eeakHfVcDNUZ5JP3x+pRYgeDxLNmn9LL5PqAE5hPf\n5pgYPAjQAObYmnkP9jTZpRURT+OlFhxkz0+Nyup522gddhCherjz0kRPkQKBgQCj\nViJIvDQ9Dm4Mw2CU0rtY1fhzsao88kWdcON0Ddo6kjRdupcgVzDi2RT+EYwSbrRY\nrXfsND75XQuq5ngZ0B0DL/wNlesa9y4atN2hfDJ6e7KBItOWFJAppmxRlNzSa9ov\nUNutbkKqOnafZm2LurJjCVN1QU1fnw66tRQga8C5YQKBgQCwxs/MIBr/HlJxdGij\nLu+eomPSMf4XRvUAezD49Ci4rDGNY1cff8RMl8skT5bun6fIbg/D0x3cFuDQLFkF\nl064JUrtZhY3xf+V9ENC61S1H8mSGi7DRB/bYdykil4NZbLNG/0dBuF1cPf4fm/E\nYBUs/tjaQKL7a2rcw8TSn2BeNQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "future-arbirage@future-arbitrage.iam.gserviceaccount.com",
+  "client_id": "109863964908030744215",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/future-arbirage%40future-arbitrage.iam.gserviceaccount.com"
+}
