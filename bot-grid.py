@@ -9,7 +9,7 @@ import pygsheets
 from threading import Thread
 
 gc = pygsheets.authorize(service_file="future-arbitrage.json")
-sh = gc.open("GRID CRYPTOCOM")
+sh = gc.open
 
 def cryptocom(method,p):
     API_KEY = "bL4NrTo1kkRfPzzqK2yfWW"
